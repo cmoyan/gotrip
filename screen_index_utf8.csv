@@ -1,0 +1,14 @@
+﻿file,cn_name,module
+00_overview_board.png,总览展示图,GoTrip UI
+01_home.png,首页 / 推荐页,GoTrip UI
+02_ai_trip_planner.png,AI行程定制页,GoTrip UI
+03_map_route_planning.png,地图路线规划页：上海→重庆,GoTrip UI
+04_itinerary_detail.png,行程详情页：上海3天2晚,GoTrip UI
+05_chongqing_destination.png,重庆目的地页,GoTrip UI
+06_attraction_detail_hongyadong.png,洪崖洞景点详情页,GoTrip UI
+07_community_discover.png,社区发现 / 攻略瀑布流页,GoTrip UI
+08_profile_center.png,我的 / 个人中心页,GoTrip UI
+09_side_drawer.png,侧边栏 / 快捷工具页,GoTrip UI
+10_settings.png,设置页,GoTrip UI
+11_popup_components.png,弹窗组件 / 预算与分享,GoTrip UI
+12_publish_guide.png,发布攻略页,GoTrip UI

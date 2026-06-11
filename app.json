@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "GoTrip",
+    "slug": "gotrip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "gotrip",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gotrip.mobile"
+    },
+    "android": {
+      "package": "com.gotrip.mobile",
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
